@@ -1,6 +1,6 @@
 # 🎨 Innomatics Internship Task 2  
 
-🚀 **Live Demo:**
+🚀 Live Demo: [Click here to view the project]("https://deepikat11.github.io/innomaticsInternshipTask2/")
 
 ## 📌 Project Overview  
 This project is part of the Innomatics Internship Task 2, featuring a responsive and visually appealing webpage built using **HTML & CSS**. The design showcases structured content with modern styling techniques.  
